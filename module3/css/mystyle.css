@@ -1,0 +1,52 @@
+body {
+background-color: rgb(169,82,0);
+font-family: verdana, sans-serif;
+color: purple;
+}
+
+.navbar {
+  background-color: #000080;
+  border-width: 0;
+  padding-bottom: 15px;
+}
+
+.navbar-brand h1 {
+  color: #FF9933;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+color: white;
+}
+
+h3,p {
+  background-color: darkgrey;
+  padding: 15px;
+  color: black;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+li {
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 5px;
+  background-color: dimgrey;
+}
+
+hr {
+  padding: 0px;
+  margin: 0px;
+}
+
+#menubut {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 15px;
+}
